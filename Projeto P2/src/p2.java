@@ -5,6 +5,8 @@ public class p2 {
 		// TODO Auto-generated method stub
 		
 		System.out.print("Iniciando Projeto");
+	    System.out.print("P2");
+	    System.out.print("");
 
 	}
 
